@@ -287,7 +287,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
 #EXTINF:-1 group-title="Tv Kanallar",ShowMax Tv
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
-#EXTINF:-1 group-title="Tv Kanallar",Tv 8,5
+#EXTINF:-1 group-title="Tv Kanallar",Tv 8
 https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
 #EXTINF:-1 group-title="Tv Kanallar",Kanal urfa
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
@@ -11489,54 +11489,4 @@ https://vidmody.com/vs/tt12747748
 https://vidmody.com/vs/tt12747748
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5vxYPdpy8VucVtPGjWPTo5wD2TT.jpg" group-title="Gizem" rating="0", Dünyayı Ardında Bırak (2023) | ⭐?
 https://vidmody.com/vs/tt12747748
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="Animasyon" rating="0", Leo (2023) | ⭐?
-https://vidmody.com/vs/tt5755238
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="Komedi" rating="0", Leo (2023) | ⭐?
-https://vidmody.com/vs/tt5755238
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg" group-title="Aile" rating="0", Leo (2023) | ⭐?
-https://vidmody.com/vs/tt5755238
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="Korku" rating="0", Little Bone Lodge (2023) | ⭐?
-https://vidmody.com/vs/tt19858164
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="Gerilim" rating="0", Little Bone Lodge (2023) | ⭐?
-https://vidmody.com/vs/tt19858164
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="Suç" rating="0", Little Bone Lodge (2023) | ⭐?
-https://vidmody.com/vs/tt19858164
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nmjq6QsFCxESXZu9IjIBDQsjZ2W.jpg" group-title="Gerilim" rating="0", Esaret (2023) | ⭐?
-https://vidmody.com/vs/tt24870072
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xwucpGxuDYde0pBgmB4h3LjD2Vf.jpg" group-title="Romantik" rating="0", Maestro (2023) | ⭐?
-https://vidmody.com/vs/tt5535276
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xwucpGxuDYde0pBgmB4h3LjD2Vf.jpg" group-title="Müzik" rating="0", Maestro (2023) | ⭐?
-https://vidmody.com/vs/tt5535276
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xwucpGxuDYde0pBgmB4h3LjD2Vf.jpg" group-title="Dram" rating="0", Maestro (2023) | ⭐?
-https://vidmody.com/vs/tt5535276
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h5dDB4CM8tvELh5e3lAo5EhG92N.jpg" group-title="Gerilim" rating="0", Manodrome (2023) | ⭐?
-https://vidmody.com/vs/tt14813150
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h5dDB4CM8tvELh5e3lAo5EhG92N.jpg" group-title="Dram" rating="0", Manodrome (2023) | ⭐?
-https://vidmody.com/vs/tt14813150
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h5dDB4CM8tvELh5e3lAo5EhG92N.jpg" group-title="Gizem" rating="0", Manodrome (2023) | ⭐?
-https://vidmody.com/vs/tt14813150
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f5whmBv4cNw7pPjBc0whBuykB8n.jpg" group-title="Dram" rating="0", Bir Skandalın Peşinde (2023) | ⭐?
-https://vidmody.com/vs/tt13651794
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uQ32eT1fGJkcTkeIOKDlQ1bfXRC.jpg" group-title="Komedi" rating="0", Atan Kazanır (2023) | ⭐?
-https://vidmody.com/vs/tt10767052
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uQ32eT1fGJkcTkeIOKDlQ1bfXRC.jpg" group-title="Dram" rating="0", Atan Kazanır (2023) | ⭐?
-https://vidmody.com/vs/tt10767052
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/smiXz0vWkFVWSlYGSqB2yLm4xbr.jpg" group-title="Romantik" rating="0", Paris'te Noel Valsi (2023) | ⭐?
-https://vidmody.com/vs/tt27975905
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/smiXz0vWkFVWSlYGSqB2yLm4xbr.jpg" group-title="TV film" rating="0", Paris'te Noel Valsi (2023) | ⭐?
-https://vidmody.com/vs/tt27975905
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/smiXz0vWkFVWSlYGSqB2yLm4xbr.jpg" group-title="Komedi" rating="0", Paris'te Noel Valsi (2023) | ⭐?
-https://vidmody.com/vs/tt27975905
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg" group-title="Macera" rating="0", Please Don't Destroy: The Treasure of Foggy Mountain (2023) | ⭐?
-https://vidmody.com/vs/tt21335356
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg" group-title="Komedi" rating="0", Please Don't Destroy: The Treasure of Foggy Mountain (2023) | ⭐?
-https://vidmody.com/vs/tt21335356
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg" group-title="Aksiyon" rating="0", Please Don't Destroy: The Treasure of Foggy Mountain (2023) | ⭐?
-https://vidmody.com/vs/tt21335356
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zUU1iIFFBXWYnnzBIXBCBIzxBds.jpg" group-title="Gerilim" rating="0", Karanlıkta Gürleyen (2023) | ⭐?
-https://vidmody.com/vs/tt10950320
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zUU1iIFFBXWYnnzBIXBCBIzxBds.jpg" group-title="Aksiyon" rating="0", Karanlıkta Gürleyen (2023) | ⭐?
-https://vidmody.com/vs/tt10950320
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg" group-title="Gerilim" rating="0", Saltburn (2023) | ⭐?
-https://vidmody.com/vs/tt17351924
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg" group-title="Komedi" rating="0", Saltburn (2023) | �
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gSO
